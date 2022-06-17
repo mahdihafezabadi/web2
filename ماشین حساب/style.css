@@ -1,0 +1,40 @@
+body{
+    background-color: gray;
+}
+
+
+.container{
+    border-radius:10%;
+    width:  300px;
+    margin: 150px auto;
+    height: 250px;
+    background-color: white;
+    box-shadow: 0px 0px 2px 10px yellowgreen;
+    padding: 10px;
+}
+.show{
+text-align: center;
+    width:  300px;
+    height: 30px;
+    border-radius:30px;
+    background-color: bisque;
+    
+    
+
+}
+ a{
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(242, 0, 255);
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 20px 5px;
+    width: 60px;
+    margin-top: 3px;
+    border-radius: 5px;
+    
+    
+}
+a:hover{
+    background-color: yellow;
+}
